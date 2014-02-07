@@ -5,9 +5,9 @@
 <head>
   <meta charset="utf-8">
   
-  <title>GPS on Your Android</title>
-  <meta name="description" content="A combination of HTML5, CSS, PHP, MySQL and Android Eclipse Programming with Java.">
-  <meta name="keywords" content="html5,html 5,css , Android, Eclipse, GPS, navigation, tracker, PHP, MYSQL">  
+  <title>HOw GPS Works</title>
+  <meta name="description" content="A project about GPS">
+  <meta name="keywords" content="Satellite, navigation, Android,  GPS">  
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" media="all" href="gpsstyle.css">
 
